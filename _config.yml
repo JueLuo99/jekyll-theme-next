@@ -373,7 +373,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 6bafeaeb07c208b292779e345b8fa14f
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -462,7 +462,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: G-EKFWRB0K9C
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
